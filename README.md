@@ -1,6 +1,6 @@
 # Projeto GoBarber
 
-Feito por Guilherme Sanches de para o BOOTCAMP 4.0 da [RocketSeat](https://www.rocketseat.com.br/)
+Feito por Guilherme Sanches para o BOOTCAMP 4.0 da [RocketSeat](https://www.rocketseat.com.br/)
 
 ### Sobre
 
