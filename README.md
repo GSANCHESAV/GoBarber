@@ -18,9 +18,11 @@ Projeto utilizando NodeJS de um aplicativo para agendamento de serviços de barb
 
 ![Página de Login](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/1%20-%20Login.png)
 ![Página de Cadastro](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/2%20-%20Cadastro.png)
+### Cliente
 ![Tela inicial cliente](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/3%20-%20Tela%20inicial%20cliente.png)
 ![Pagina de agendamento(Dia)](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/4%20-%20Agendamento%20dia.png)
 ![Pagina de agendamento(Hora)](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/6%20-%20Agendamento%20horario%20restante.png)
+### Barbeiro(a)
 ![Tela inicial barbeiro](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/7%20-%20Tela%20inicial%20barbeiro.png)
 ![Agendamentos barbeiro](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/8%20-%20Clientes%20barbeiro.png)
 
