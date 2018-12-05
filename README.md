@@ -13,3 +13,7 @@ Projeto utilizando NodeJS de um aplicativo para agendamento de serviços de barb
 - Sequelize
 - PostgreSQL
 - Nunjucks
+
+## Telas do aplicativo
+
+[![Pagina de Login](https://raw.githubusercontent.com/GSANCHESAV/GoBarber/master/imagens%20telas/1%20-%20Login.png)]]
